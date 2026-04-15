@@ -1,0 +1,1 @@
+# wazuh-defender-soc-project
