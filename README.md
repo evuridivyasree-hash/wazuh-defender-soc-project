@@ -1,4 +1,3 @@
-# wazuh-defender-soc-project
 # Real-Time Threat Detection using Wazuh & Windows Defender
 
 ## Overview
